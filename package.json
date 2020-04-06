@@ -1,0 +1,19 @@
+{
+  "name": "rtnate-smart-table",
+  "version": "1.0.0",
+  "description": "Smart, Sortable web tables designed to served statically from php",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nate Taylor",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jquery": "^3.3.34",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "xlsx": "^0.15.6"
+  }
+}
